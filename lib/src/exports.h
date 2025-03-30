@@ -10,13 +10,13 @@ inline const char* GetGenshinProcName()
 extern "C" __declspec(dllexport)
 inline const char* GetGenshinVersion()
 {
-	return "CNRel_5.4.0";
+	return "CNRel_5.5.0";
 }
 
 extern "C" __declspec(dllexport)
 inline const char* GetGenshinHash()
 {
-	return "5a57b3c787190ad012ab53f1fb79d65d";
+	return "75a76be547545544b57228f4296a8b1f";
 }
 
 extern "C" __declspec(dllexport)
